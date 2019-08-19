@@ -35,5 +35,5 @@ watermark/1
 
 POST http://ctaccel.com/api/v1?watermark/1/image/aHR0cDovL3d3dy5wbmdhbGwuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA1L1B5dGhvbi1Mb2dvLUZyZWUtRG93bmxvYWQtUE5HLnBuZw==/dissolve/80/gravity/center/dx/200/dy/100/ws/1/wst/0
 
-![watermark_m1_all_params](https://thumbnail0.baidupcs.com/thumbnail/be65778441944c7049dfaf282b17d54b?fid=2117452681-250528-239371711410389&time=1565938800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-EdzacxDjBljrOQ6vcaCiP%2BsIcy8%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5279480095906046945&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![watermark_m1_all_params](https://raw.githubusercontent.com/ctaccel/cip-docs/master/images/watermark_m1_all_params.jpeg)
 

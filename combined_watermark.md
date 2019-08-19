@@ -27,5 +27,5 @@ POST http://192.168.55.93:8383/api/v1?imageMogr2/auto-orient/format/png|watermar
 
 注意：　id=http://7xlv47.com0.z0.glb.clouddn.com/baidi.png
 
-![watermark_m1_all_params](https://thumbnail0.baidupcs.com/thumbnail/65fac8d018f5c29b4e1f7228d5912824?fid=2117452681-250528-1062396298115126&time=1565938800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-UakZZC4JUfhvDr4zjzKw0MrhFH0%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5280131426579087993&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![watermark_m1_all_params](https://raw.githubusercontent.com/ctaccel/cip-docs/master/images/watermark_m3_combined-wm_all_params.png)
 

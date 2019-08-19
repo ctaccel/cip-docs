@@ -35,7 +35,7 @@ watermark/2
 
 * POST http://ctaccel.com/api/v1?watermark/2/text/5rWLQ1RBYWFhVHh0/dy/50/dx/50/fill/UmVk/dissolve/50/fontsize/900/gravity/center
 
-![text-wm_all_params](https://thumbnail0.baidupcs.com/thumbnail/144797da571bad0e0a9ec9570bba09ce?fid=2117452681-250528-411646630646780&time=1565938800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-UThJWIq7f5a%2Btdo8nUAeGxF6RIs%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5279734138611829585&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![text-wm_all_params](https://raw.githubusercontent.com/ctaccel/cip-docs/master/images/watermark_m2_text-wm_all_params.jpeg)
 
 > **注意：**
 > 请忽略以下内容中的空格与换行符。
@@ -71,4 +71,4 @@ watermark/4
 
 * POST  http://ctaccel.com/api/v1?watermark/4/text/5rWLQ1RBYWFhVHh0/uw/160/resize/1/uh/50/fill/UmVk/rotate/180/fontsize/500/font/5b6u6L2v6ZuF6buR/dissolve/100
 
-![wm-m4_all_params](https://thumbnail0.baidupcs.com/thumbnail/67d030df62f483cfdda436e81b43a329?fid=2117452681-250528-111861808630421&time=1565938800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-HFjPPU5a4xezg3KbRqOEqqA9LgA%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5279833661073384042&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![wm-m4_all_params](https://raw.githubusercontent.com/ctaccel/cip-docs/master/images/watermark_m4_text-extend_all_params.jpeg)
